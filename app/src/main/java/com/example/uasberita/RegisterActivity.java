@@ -111,8 +111,8 @@ public class RegisterActivity extends AppCompatActivity {
                         user.setTgl_lahir(tgl_lahir);
 
                         mDatabaseReference.child(username).setValue(user);
-                        sendNotification();
-//                        Toast.makeText(RegisterActivity.this,"Register berhasil!",Toast.LENGTH_SHORT).show();
+//                        sendNotification();
+                        Toast.makeText(RegisterActivity.this,"Register berhasil!",Toast.LENGTH_SHORT).show();
                         Intent intent = new Intent(RegisterActivity.this, rvBerita.class);
                         startActivity(intent);
                         finish();
