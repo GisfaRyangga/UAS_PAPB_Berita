@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1076748246765",
+    "project_id": "uas-berita-pppb",
+    "storage_bucket": "uas-berita-pppb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1076748246765:android:56ba3cbe9636f2fd0bf6e4",
+        "android_client_info": {
+          "package_name": "com.example.uasberita"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1076748246765-jjt8uc0hc825gghh16sq9nps95kfdgau.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcMKawIBlXEI6jfuh5PWxk2QbJa9zWVVI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1076748246765-jjt8uc0hc825gghh16sq9nps95kfdgau.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">UAS Berita</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="date_picker">date picker</string>
+
+    <string-array name="kategori_berita">
+        <item>Film</item>
+        <item>Game</item>
+        <item>Sepakbola</item>
+    </string-array>
+</resources>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/1UGM/TRPL/Semester3/matkul/PPPB/16_Uas/uas/app/src/main/res/drawable/borderteks.xml" value="0.1115" />
+        <entry key="..\:/1UGM/TRPL/Semester3/matkul/PPPB/16_Uas/uas/app/src/main/res/drawable/ic_android_black_24dp.xml" value="0.1335" />
+        <entry key="..\:/1UGM/TRPL/Semester3/matkul/PPPB/16_Uas/uas/app/src/main/res/drawable/ic_baseline_favorite_border_24.xml" value="0.1335" />
+        <entry key="..\:/1UGM/TRPL/Semester3/matkul/PPPB/16_Uas/uas/app/src/main/res/drawable/ic_baseline_laptop_24.xml" value="0.1335" />
+        <entry key="..\:/1UGM/TRPL/Semester3/matkul/PPPB/16_Uas/uas/app/src/main/res/layout/activity_cari_data.xml" value="0.17074275362318841" />
+        <entry key="..\:/1UGM/TRPL/Semester3/matkul/PPPB/16_Uas/uas/app/src/main/res/layout/activity_detail_berita.xml" value="0.25" />
+        <entry key="..\:/1UGM/TRPL/Semester3/matkul/PPPB/16_Uas/uas/app/src/main/res/layout/activity_hasil_cari.xml" value="0.17074275362318841" />
+        <entry key="..\:/1UGM/TRPL/Semester3/matkul/PPPB/16_Uas/uas/app/src/main/res/layout/activity_input_berita.xml" value="0.17" />
+        <entry key="..\:/1UGM/TRPL/Semester3/matkul/PPPB/16_Uas/uas/app/src/main/res/layout/activity_input_data.xml" value="0.17074275362318841" />
+        <entry key="..\:/1UGM/TRPL/Semester3/matkul/PPPB/16_Uas/uas/app/src/main/res/layout/activity_like_bookmark.xml" value="0.209375" />
+        <entry key="..\:/1UGM/TRPL/Semester3/matkul/PPPB/16_Uas/uas/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/1UGM/TRPL/Semester3/matkul/PPPB/16_Uas/uas/app/src/main/res/layout/activity_recycler_berita.xml" value="0.25" />
+        <entry key="..\:/1UGM/TRPL/Semester3/matkul/PPPB/16_Uas/uas/app/src/main/res/layout/activity_register.xml" value="0.25" />
+        <entry key="..\:/1UGM/TRPL/Semester3/matkul/PPPB/16_Uas/uas/app/src/main/res/layout/activity_rv_berita.xml" value="0.25" />
+        <entry key="..\:/1UGM/TRPL/Semester3/matkul/PPPB/16_Uas/uas/app/src/main/res/layout/item_berita.xml" value="0.33" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
